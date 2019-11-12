@@ -12,6 +12,8 @@
             <li @click="showDialog('isShowReg')">注册</li>
             <li class="nav-pile">|</li>
             <li @click="showDialog('isShowAbout')">关于</li>
+            <li class="nav-pile">|</li>
+            <li @click="showDialog('isShowAbout')">测试</li>
           </ul>
         </div>
       </div>
